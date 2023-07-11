@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshit Singh Bisht
 - 👀 I’m interested in Software and Web Development
-- 🌱 I’m currently pursuing BCA and have basic knowledge of C, C++, CSS, Python and HTML.
+- 🌱 I’m currently pursuing BCA and have basic knowledge of C, C++, Python, CSS and HTML.
 - 💞️ I’m looking for part time work for freshers. 
 - 📫 Contact- +916397750578, E-mail - singhharshit1301@gmail.com
 
