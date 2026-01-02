@@ -7,7 +7,7 @@ I am a recent graduate based in **Nainital** with a strong focus on software dev
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Android & Web Applications** (like *Smart Attendance Systems* and *Gym Management Apps*).
+- 🔭 I’m currently working on **Android & Web Applications**.
 - 🌱 I’m currently exploring **Data Analytics** and **Cloud Computing**.
 - 👯 I’m looking to collaborate on **Open Source projects** and **Team-based coding**.
 - 📸 When I'm not coding, I enjoy **Photography**, **Hiking**, and **Gardening**.
