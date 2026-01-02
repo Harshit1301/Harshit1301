@@ -16,7 +16,7 @@ I am a recent graduate based in **Nainital** with a strong focus on software dev
 ### 🛠 Tech Stack
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, Java, C, C++ |
+| **Languages** | Python, Java, C++ |
 | **Web** | React, JavaScript, HTML, CSS, PHP |
 | **Databases** | MySQL, MongoDB, SQL, Supabase |
 | **Tools & OS** | Git, GitHub, Linux, Windows |
