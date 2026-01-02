@@ -1,10 +1,25 @@
-- 👋 Hi, I’m Harshit Singh Bisht
-- 👀 I’m interested in Software and Web Development
-- 🌱 I’m currently pursuing BCA and have basic knowledge of C, C++, Python, CSS and HTML.
-- 💞️ I’m looking for part time work for freshers. 
-- 📫 Contact- +916397750578, E-mail - singhharshit1301@gmail.com
+# Hi there, I'm Harshit Singh Bisht! 👋
 
-<!---
-Harshit1301/Harshit1301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Software Engineer | BCA Graduate | Full-Stack Enthusiast**
+
+I am a recent graduate based in **Nainital** with a strong focus on software development, web technologies, and data analytics. I love solving real-world challenges through code and collaborating on creative projects.
+
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working on **Android & Web Applications** (like *Smart Attendance Systems* and *Gym Management Apps*).
+- 🌱 I’m currently exploring **Data Analytics** and **Cloud Computing**.
+- 👯 I’m looking to collaborate on **Open Source projects** and **Team-based coding**.
+- 📸 When I'm not coding, I enjoy **Photography**, **Hiking**, and **Gardening**.
+- 📫 Reach me at: **singhharshit1301@gmail.com**
+
+### 🛠 Tech Stack
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, Java, C, C++ |
+| **Web** | React, JavaScript, HTML, CSS, PHP |
+| **Databases** | MySQL, MongoDB, SQL, Supabase |
+| **Tools & OS** | Git, GitHub, Linux, Windows |
+
+---
+*Thanks for visiting my profile!*
