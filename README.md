@@ -22,4 +22,4 @@ I am pusuing graduation in BCA and  based in **Nainital** with a strong focus on
 | **Tools & OS** | Git, GitHub, Linux, Windows |
 
 ---
-*Thanks for visiting my profile!*
+*Thanks for visiting my profile!* 
