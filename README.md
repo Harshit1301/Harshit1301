@@ -1,8 +1,8 @@
 # Hi there, I'm Harshit Singh Bisht! 👋
 
-**Software Engineer | BCA Graduate | Full-Stack Enthusiast**
+**Software Engineer | Full-Stack Enthusiast**
 
-I am a recent graduate based in **Nainital** with a strong focus on software development, web technologies, and data analytics. I love solving real-world challenges through code and collaborating on creative projects.
+I am pusuing graduation in BCA and  based in **Nainital** with a strong focus on software development, web technologies, and data analytics. I love solving real-world challenges through code and collaborating on creative projects.
 
 ---
 
